@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Dubey</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
+img align="right" alt="Coding" width="400" src= "https://www.google.com/imgres?q=mern%204k%20hd%20pic&imgurl=https%3A%2F%2Fd3oofn3y8h5efg.cloudfront.net%2Fwebcluesinfotech%2F1737723875384_image-(2).jpg&imgrefurl=https%3A%2F%2Fwww.webcluesinfotech.com%2Ftop-companies-to-hire-mern-stack-developers%2F&docid=SZcy5Dbx0j2evM&tbnid=cHNcmEKT0dK-qM&vet=12ahUKEwjS44Pz1fCOAxVGzTgGHS04H5oQM3oECGIQAA..i&w=672&h=450&hcb=2&ved=2ahUKEwjS44Pz1fCOAxVGzTgGHS04H5oQM3oECGIQAA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumardubey07&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumardubey07" /> </p>
 
