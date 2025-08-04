@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Dubey</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
-img align="right" alt="Coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webcluesinfotech.com%2Ftop-companies-to-hire-mern-stack-developers%2F&psig=AOvVaw1_Kk7fE-Z10o0rX4-QEcDe&ust=1754380431429000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwih4czE1vCOAxX7wDgGHeA4J9kQjRx6BAgAEBo"
+(img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/271541183/original/c0fa034e0a587f947ae180bfb19f40495dad36e6/create-lofi-hip-hop-animations.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumardubey07&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumardubey07" /> </p>
 
